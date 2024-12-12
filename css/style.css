@@ -1,4 +1,4 @@
-#homeBlok {
+#main {
     padding: 155px 0;
 }
 
@@ -11,13 +11,6 @@
     border-radius: 33px;
 }
 
-#list {
-    font-size: 44px;
-    width: 1258px;
-    color: #fff;
-    margin-top: -680px;
-    padding: 39px 71px;
-}
 
 #contactblok {
     width: 1137px;
@@ -25,7 +18,7 @@
     margin: 0 auto;
     border-radius: 24px;
     background-color: #EBF8FE;
-    margin-top: 590px;
+    margin-top: 115px;
 }
 
 #contact {
@@ -39,7 +32,6 @@
     line-height: 44px;
 }
 
-#form {}
 
 #formBlok {
     width: 488px;
